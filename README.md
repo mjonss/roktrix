@@ -30,6 +30,6 @@ adb install -r app/build/outputs/apk/debug/roktrix-1.0-debug.apk
 
 All application code in this repository is original work, written from scratch. No code was copied from any external repository or third-party source.
 
-The Gradle wrapper files and launcher icon resources were carried over from the author's own [HelloRokidGlasses](https://github.com/user/HelloRokidGlasses) project as standard Android boilerplate. The Matrix rain effect, head tracking logic, sensor axis mapping, and multi-drop architecture were all authored specifically for this project.
-
 The project uses only the standard public Android SDK (SensorManager, Canvas, Paint, View) per their documentation. No proprietary Rokid SDK is required.
+
+Licensed under the [MIT License](LICENSE).
